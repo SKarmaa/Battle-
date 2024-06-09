@@ -1,0 +1,24 @@
+{
+	"controls": [
+		{
+			"left": ["KeyA"],
+			"right": ["KeyD"],
+			"up": ["KeyW"],
+			"down": ["KeyS"],
+			"attack": ["KeyR"],
+			"block": ["KeyT"]
+		},
+		{
+			"left": ["ArrowLeft"],
+			"right": ["ArrowRight"],
+			"up": ["ArrowUp"],
+			"down": ["ArrowDown"],
+			"attack": ["KeyP"],
+			"block": ["KeyO"]
+		}
+	],
+	"gamepad": {
+		"attack": 0,
+		"block": 2
+	}
+}
